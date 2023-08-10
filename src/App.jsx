@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-
-// import '.App.css'
-import Counter from './components/Counter'
-
-import React from 'react'
-import { Route, Routes } from 'react-router' 
-=======
 //import React from 'react'
 import { Route, Routes } from 'react-router'
->>>>>>> 5aab80f8278983f99ec18c5c001c130e1c0169a8
 
 //components
 import Staff from './components/Stafftable.jsx'
@@ -23,15 +14,6 @@ import AddClub from './components/AddClub.jsx'
 
 function App() {
 
-<<<<<<< HEAD
-  return(
-    <div>
-      <Counter></Counter>
-    </div>
-
-  )
-=======
->>>>>>> 5aab80f8278983f99ec18c5c001c130e1c0169a8
 
   return (
     <>
@@ -55,13 +37,7 @@ function App() {
     </div>
      
     </>
-
   )
- 
 }
 
 export default App
-
-// JSX =JS + HTML+  XML(you can define custom elements)
-
-//<Person></Person>
